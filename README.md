@@ -27,7 +27,7 @@
 * Creating diagrams and decision tables
 
 # Certificates
-* [https://www.gasq.org/en/certification/check-a-certificate.html](ISTQB) - No. ....
+* [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - No. ....
 
 # Courses
 * CODE:ME Podstawy testowania w praktyce

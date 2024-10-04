@@ -1,9 +1,9 @@
-#Portfolio
+# Portfolio
 
-#About me
+# About me
 ...
 
-#Tools
+# Tools
 *Jing - Screen capture software
 *Postman - Testing tool for REST API
 *Jira, Trello - Issue tracking and project management tool for developers

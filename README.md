@@ -16,59 +16,59 @@
 * Github
 * BlazeMeter (https://www.blazemeter.com/) - Load testing platform
 
-#Tech skills
-*SQL
-*DevTools
-*SCRUM
-*Software testing
-*Creating test cases
-*Reporting bugs
-*Finding uniqe CSS Selectors and xPaths
-*Creating diagrams and decision tables
+# Tech skills
+* SQL
+* DevTools
+* SCRUM
+* Software testing
+* Creating test cases
+* Reporting bugs
+* Finding uniqe CSS Selectors and xPaths
+* Creating diagrams and decision tables
 
-#Certificates
-*[https://www.gasq.org/en/certification/check-a-certificate.html](ISTQB) - No. ....
+# Certificates
+* [https://www.gasq.org/en/certification/check-a-certificate.html](ISTQB) - No. ....
 
-#Courses
-*CODE:ME Podstawy testowania w praktyce
-*Gfi Technology Academy
+# Courses
+* CODE:ME Podstawy testowania w praktyce
+* Gfi Technology Academy
 
-#Books
-*R.Smilgin - Zawód tester
+# Books
+* R.Smilgin - Zawód tester
 
-#Recommended blogs
-*testerzy.pl
-*testuj.pl - Test, Bugs & Rock'n'Roll
-*remigiuszbednarczyk.pl
-*pwicherski.gitbook.io
-*GeekON
+# Recommended blogs
+* testerzy.pl
+* testuj.pl - Test, Bugs & Rock'n'Roll
+* remigiuszbednarczyk.pl
+* pwicherski.gitbook.io
+* GeekON
 
-#Webinars
-*GeekON - praktyczne ćwiczenie SQL
-*Szkoła testera - podstawy testowania
+# Webinars
+* GeekON - praktyczne ćwiczenie SQL
+* Szkoła testera - podstawy testowania
 
-#Articles
-*Article about creating portfolio in GitHub using my portfolio as example
+# Articles
+* Article about creating portfolio in GitHub using my portfolio as example
 
-#My test case examples
-*Test cases for site lubimyczytac.pl
+# My test case examples
+* Test cases for site lubimyczytac.pl
 
-#My bug reports
-*Bugs reported for jakdojade.pl site
+# My bug reports
+* Bugs reported for jakdojade.pl site
 
-#My examples of diagrams and decision tables
-*Diagrams and decision tables for stoper, railway lights and registration
+# My examples of diagrams and decision tables
+* Diagrams and decision tables for stoper, railway lights and registration
 
-#My examples of CSS Selectors and xPaths
-*Finding uniqe CSS Selectors and xPaths on site ikea.pl
+# My examples of CSS Selectors and xPaths
+* Finding uniqe CSS Selectors and xPaths on site ikea.pl
 
-#My projects
-*Group project - leader - testing site allegro.pl
-*Tablica trello.com
+# My projects
+* Group project - leader - testing site allegro.pl
+* Tablica trello.com
 
-#Individual project - testing site zara.com
-*Report
-*Test cases
-*Test cases - regression testing
-*Mind map
-*Automated Postman tests
+# Individual project - testing site zara.com
+* Report
+* Test cases
+* Test cases - regression testing
+* Mind map
+* Automated Postman tests

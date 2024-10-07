@@ -15,6 +15,14 @@
 * draw.io - Flowchart maker and online diagram software
 * Github
 * BlazeMeter (https://www.blazemeter.com/) - Load testing platform
+* Pick-Pick 
+* Browerstack
+* Xray
+* Jmeter
+* Cypress
+* Jenkins
+* Grafana
+* Visual Studio Code
 
 # Tech skills
 * SQL
@@ -30,11 +38,14 @@
 * [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - No. ....
 
 # Courses
-* CODE:ME Podstawy testowania w praktyce
-* Gfi Technology Academy
+* Testowanie oprogramowania w praktyce | Bootcamp
+* Kurs Selenium od podstaw
+* Postman Testowanie Rest API
+* Kurs Jira - zarzadzanie projektami 
+* Podstawy manualnego testowania oprogramowania
 
 # Books
-* R.Smilgin - Zawód tester
+* A.Roman & Lucjan Stapp -  Certyfikowany tester ISTQB
 
 # Recommended blogs
 * testerzy.pl
